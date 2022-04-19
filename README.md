@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+- Geeeting familiar with ReactJS 
+- learned how to use React’s Hooks (useState , useEffect)
+- Fetching Meme pictures form an api
 
 ## Available Scripts
 
